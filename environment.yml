@@ -1,11 +1,10 @@
 name: example-environment
 channels:
   - conda-forge
-  - arcgispro-py3
+  - esri
 dependencies:
   - python
   - numpy
-  - esri
   - arcgis
   - pip:
     - nbgitpuller
