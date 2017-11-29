@@ -4,8 +4,11 @@ channels:
 dependencies:
   - python
   - numpy
+  - esri
+  - arcgis
   - pip:
     - nbgitpuller
     - sphinx-gallery
     - pandas
     - matplotlib
+    - 
