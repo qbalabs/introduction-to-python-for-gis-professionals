@@ -12,4 +12,3 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
-    - 
