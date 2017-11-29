@@ -1,7 +1,7 @@
 name: example-environment
 channels:
   - conda-forge
-  - esri
+  - arcgispro-py3
 dependencies:
   - python
   - numpy
