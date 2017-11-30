@@ -1,13 +1,7 @@
-# Using anaconda with pip in the same build
+# Introduction to Python for GIS Professionals - supporting materials
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/python-conda_pip/master?filepath=index.ipynb)
+Click the link below (the "badge" to open Jupyter)
 
-If you use `environment.yml`, then Binder will use a Miniconda distribution
-to install your packages. However, you may still want to use `pip`. In
-this case, you should **not** use a `requirements.txt` file, but instead use
-a `- pip` section in `environment.yml`. This repository is an example of how
-to construct your `environment.yml` file to accomplish this.
+[![Binder](http://mybinder.org/badge.svg)](https://github.com/jakamkon/introduction-to-python-for-gis-professionals)
 
-Access this Binder at the following URL:
 
-http://beta.mybinder.org/v2/gh/binder-examples/python-conda_pip/master?filepath=index.ipynb
