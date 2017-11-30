@@ -8,8 +8,11 @@ dependencies:
   - arcgis
   - libgdal
   - pip:
-    - nbgitpuller
     - sphinx-gallery
     - pandas
     - matplotlib
     - gdal
+    - fiona
+    - shapely
+    - rasterio
+    - geopandas
