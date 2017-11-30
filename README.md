@@ -2,6 +2,5 @@
 
 Click the link below (the "badge" to open Jupyter)
 
-[![Binder](http://mybinder.org/badge.svg)](https://github.com/jakamkon/introduction-to-python-for-gis-professionals)
-
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/jakamkon/introduction-to-python-for-gis-professionals/master?filepath=index.ipynb
 
