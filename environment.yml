@@ -12,6 +12,7 @@ dependencies:
     - pandas
     - matplotlib
     - gdal
+    - rtree
     - fiona
     - shapely
     - rasterio
