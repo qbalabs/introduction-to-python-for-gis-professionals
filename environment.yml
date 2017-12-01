@@ -1,11 +1,9 @@
 name: example-environment
 channels:
   - conda-forge
-  - esri
 dependencies:
   - python
   - numpy
-  - arcgis
   - libgdal
   - pip:
     - sphinx-gallery
