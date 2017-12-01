@@ -5,6 +5,7 @@ dependencies:
   - python
   - numpy
   - libgdal
+  - spatialindex
   - pip:
     - sphinx-gallery
     - pandas
