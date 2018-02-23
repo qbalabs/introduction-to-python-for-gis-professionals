@@ -4,16 +4,4 @@ channels:
   - pkerichang
 dependencies:
   - python2.7
-  - numpy
-  - libgdal
-  - spatialindex
   - qgis
-  - pip:
-    - sphinx-gallery
-    - pandas
-    - matplotlib
-    - gdal
-    - fiona
-    - shapely
-    - rasterio
-    - geopandas
